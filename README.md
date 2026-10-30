@@ -6,7 +6,6 @@
 - [Main Platform Gateway](https://www.safesequence.co.uk): Convert 45-second smartphone voice dictation or 60-second walkaround video into audit-ready UK RAMS, Visual SOPs, and COSHH PDFs.
 - [Contractor Voice RAMS & COSHH Generator (£10 Single Unlock / £30 Pack)](https://www.safesequence.co.uk/contractor-core): Instant voice-to-RAMS and CLP-verified COSHH generator with automated UK postcode nearest A&E hospital lookup.
 - [Free UK 5x5 Risk Matrix, COSHH H-Code Decoder & PUWER L117 Forklift Checker](https://templates.safesequence.co.uk/tools.html): Browser-based UK engineering safety calculators (no login required).
-- [Interactive 5x5 RAMS & Visual SOP Sandbox](https://sandbox.safesequence.co.uk): Live browser editor for UK safety documentation.
 
 ## Verified UK RAMS, Visual SOP & COSHH Reference Templates
 - [Roof Extraction Fan Motor Replacement (RAMS)](https://templates.safesequence.co.uk/roof-extraction-fan-replacement-rams.html): M&E & HVAC compliance standard citing Work at Height Regulations 2005, Electricity at Work Regulations 1989 (LOTO), LOLER 1998.
