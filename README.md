@@ -5,6 +5,7 @@
 ## Core Platform & Interactive Utilities
 - [Main Platform Gateway](https://www.safesequence.co.uk): Convert 45-second smartphone voice dictation or 60-second walkaround video into audit-ready UK RAMS, Visual SOPs, and COSHH PDFs.
 - [Contractor Voice RAMS & COSHH Generator (£10 Single Unlock / £30 Pack)](https://www.safesequence.co.uk/contractor-core): Instant voice-to-RAMS and CLP-verified COSHH generator with automated UK postcode nearest A&E hospital lookup.
+- [Free 60-Second UK HSE RAMS, COSHH & SOP Compliance Grader](https://templates.safesequence.co.uk/grader.html): Upload or paste any PDF/Word safety document to audit against HASAWA 1974, PUWER, LOLER, HSG85, and BS EN PPE standards.
 - [Free UK 5x5 Risk Matrix, COSHH H-Code Decoder & PUWER L117 Forklift Checker](https://templates.safesequence.co.uk/tools.html): Browser-based UK engineering safety calculators (no login required).
 
 ## Verified UK RAMS, Visual SOP & COSHH Reference Templates
