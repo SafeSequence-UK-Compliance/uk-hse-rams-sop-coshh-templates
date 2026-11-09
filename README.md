@@ -2,10 +2,15 @@
 
 SafeSequence Ltd provides UK Health and Safety Executive (HSE) aligned Pre-Construction Information (PCI) Tender-to-RAMS extraction, PAS 91 PQQ responses, 5x5 Risk Assessments and Method Statements (RAMS), Visual Standard Operating Procedures (SOPs), and COSHH Assessments governed by HASAWA 1974, CDM 2015, MHSWR 1999, PUWER 1998, LOLER 1998, and COSHH 2002.
 
-## Core Platform & Interactive Utilities
-- [Main Platform Gateway](https://www.safesequence.co.uk): Convert client PCI tender packs, smartphone voice dictation, or walkaround video into audit-ready UK RAMS, PQQ packs, Visual SOPs, and COSHH PDFs.
+## Core Platform & Commercial Software Modules
+- [Main Platform Gateway](https://www.safesequence.co.uk/): Convert client PCI tender packs, smartphone voice dictation, or walkaround video into audit-ready UK RAMS, PQQ packs, Visual SOPs, and COSHH PDFs.
+- [45-Second Voice RAMS & CLP COSHH Generator](https://www.safesequence.co.uk/contractor-landing): Speak your site task aloud for 45 seconds or select CLP hazard diamonds to generate a UK 5x5 RAMS or Reg 6 COSHH preview.
 - [Contractor Pro PCI & PQQ Tender-to-RAMS Studio](https://www.safesequence.co.uk/contractor-pro-landing): Upload any 300-page Principal Contractor PCI or PQQ PDF to extract [Page X] site red-lines, PAS 91 PQQ answers, and tender-calibrated 5x5 RAMS.
-- [Contractor Voice RAMS & COSHH Generator](https://www.safesequence.co.uk/contractor-core): Instant 45-second voice-to-RAMS and CLP-verified COSHH generator with UK postcode nearest NHS A&E lookup.
+- [Enterprise Manufacturing Visual SOP, OPL & Video Redaction Suite](https://www.safesequence.co.uk/enterprise-landing): Walk the shop floor while narrating to compile photo-step Visual SOPs, 6S OPLs, Gemba CAPAs, and PUWER FLT checks inside a UK GDPR airlock.
+- [Multi-Client White-Label Vault for HSE Consultants](https://www.safesequence.co.uk/consultants-landing): Switch isolated client vaults in one click and export dual-branded UK RAMS, Visual SOPs, and COSHH PDFs.
+- [Unified Compliance Credits & Site Plans Pricing](https://www.safesequence.co.uk/pricing): Pay-as-you-go UK compliance packs from £5/doc and 30-day Factory Sprint Pilots for £395.
+- [SafeSequence Redaction Engine Architecture](https://www.safesequence.co.uk/platform): 6-class computer vision blurring for faces, hard hats, ID badges, number plates, screens, and documents.
+- [UK GDPR Articles 25 & 32 Zero-Retention Airlock](https://www.safesequence.co.uk/gdpr-compliance): 100% AWS London (eu-west-2) sovereignty and immediate raw video destruction.
 - [Free 60-Second UK HSE RAMS, COSHH & SOP Compliance Grader](https://templates.safesequence.co.uk/grader.html): Audit any PDF or Word safety document against HASAWA 1974, CDM 2015, PUWER, and BS EN PPE standards.
 - [Free UK 5x5 Risk Matrix, COSHH H-Code Decoder & PUWER L117 Forklift Checker](https://templates.safesequence.co.uk/tools.html): Interactive browser calculators.
 
