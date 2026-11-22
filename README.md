@@ -11,7 +11,7 @@ Official open-access UK Health, Safety, Environment (HSE), CDM 2015, and Commerc
 - **[Free 60-Second UK RAMS & COSHH Compliance Grader](https://templates.safesequence.co.uk/grader.html)** — Audit any existing PDF or Word RAMS against 8 UK statutory checks
 - **[Interactive UK 5x5 Risk Matrix, COSHH H-Code & PUWER FLT Calculators](https://templates.safesequence.co.uk/tools.html)** — Free engineering safety calculators
 
-## Live UK Statutory Reference Templates (101 Indexed Guides — Updated 2026-11-18)
+## Live UK Statutory Reference Templates (101 Indexed Guides — Updated 2026-11-22)
 
 - **[WD40 / WD-40 COSHH Risk Assessment Template (Free UK Word .DOC — Not Just an SDS)](https://templates.safesequence.co.uk/wd-40-multi-use-aerosol-bulk-liquid-coshh-assessment.html)** — `COSHH` | *COSHH Regulations 2002 Reg 6, HSE EH40/2005 WELs (Hydrocarbons), UK CLP GHS02/GHS07, DSEAR 2002*
 - **[HSG76 Warehouse Pallet Racking & Forklift (FLT) Impact Damage Inspection SOP & Checklist](https://templates.safesequence.co.uk/pallet-racking-forklift-impact-damage-inspection-sop.html)** — `SOP` | *HSE HSG76 Warehousing and Storage, SEMA Racking Code of Practice, PUWER 1998, LOLER 1998 (L117)*
